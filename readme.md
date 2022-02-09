@@ -14,3 +14,4 @@ I listen to pop alot. My favorite artist is Dua Lipa, and **Don't Start Now**, *
 <a href="https://neildevolopment.ml/neil">Neil Developement Profile</a> <br/>
 <a href="https://twitter.com/ItsQuadrus">Twitter</a><br/>
 <a href="https://github.com/ItsNeil1711">Github<a/><br/>
+[![Stats](https://github-readme-stats.vercel.app/api?username=ItsNeil17&show_icons=true&theme=discord_old_blurple)](https://github.com/ItsNeil17)
